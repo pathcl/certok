@@ -14,9 +14,9 @@ import (
 	"text/tabwriter"
 	"time"
 
-	"github.com/genuinetools/certok/version"
 	"github.com/genuinetools/pkg/cli"
 	"github.com/mitchellh/colorstring"
+	"github.com/pathcl/certok/version"
 	"github.com/sirupsen/logrus"
 )
 
